@@ -31,16 +31,38 @@ header {
 .wrapper {
   max-width: 45rem;
   margin-inline: auto;
+  display: flex;
+  flex-direction: column;
 }
 
 form {
   background-color: var(--form-background-color);
   color: #fff;
   padding-block: 2rem;
-  display: flex;
 }
 
-#provinces > * {
+form > .wrapper > .filters {
+  display: flex;
+  flex-direction: row;
+  gap: 2rem;
+}
+
+form .filter-item {
+  flex: 1;
+}
+
+form button {
+  padding: 0.5rem;
+  margin-top: 3rem;
+}
+
+form .button {
+  margin: auto;
+}
+
+#provinces > *,
+#years > *,
+#months > * {
   background: none;
   color: inherit;
   border: 1px solid #fff;
@@ -50,7 +72,18 @@ form {
   cursor: pointer;
 }
 
-#provinces > *[active] {
+input {
+  padding: 0.5rem;
+}
+
+#provinces > *[active],
+#years > *[active],
+#months > *[active] {
   background: #fff;
   color: #000;
+}
+
+#loader {
+  margin-top: 0.5rem;
+  text-align: center;
 }

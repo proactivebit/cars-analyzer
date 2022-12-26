@@ -1,0 +1,2230 @@
+{
+  "data": [
+    {
+      "id": "198622840624811",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "FERRARI",
+        "kategoria-pojazdu": "13",
+        "typ": "F 142",
+        "model": "F8 TRIBUTO",
+        "wariant": "CB",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "UŻYW. ZAKUPIONY W KRAJU",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 3902,
+        "masa-wlasna": 1530,
+        "rodzaj-paliwa": "BENZYNA",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/198622840624811"
+      }
+    },
+    {
+      "id": "5902967575773578",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "MERCEDES-BENZ",
+        "kategoria-pojazdu": "11111111",
+        "typ": "---",
+        "model": "E 270 CDI",
+        "wariant": "---",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "UŻYW. IMPORT INDYW",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 2685,
+        "masa-wlasna": 1830,
+        "rodzaj-paliwa": "OLEJ NAPĘDOWY",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/5902967575773578"
+      }
+    },
+    {
+      "id": "5348940015166142",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "DAIMLERCHRYSLER",
+        "kategoria-pojazdu": "11111111",
+        "typ": "---",
+        "model": "SPRINTER",
+        "wariant": "---",
+        "rodzaj-pojazdu": "SAMOCHÓD CIĘŻAROWY",
+        "pochodzenie-pojazdu": "UŻYW. IMPORT INDYW",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 2685,
+        "masa-wlasna": 2040,
+        "rodzaj-paliwa": "OLEJ NAPĘDOWY",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/5348940015166142"
+      }
+    },
+    {
+      "id": "1809625700241156",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "FORD/D.A.C.",
+        "kategoria-pojazdu": "19",
+        "typ": "FEDZ",
+        "model": "TRANSIT",
+        "wariant": "BLHA2BF5",
+        "rodzaj-pojazdu": "SAMOCHÓD CIĘŻAROWY",
+        "pochodzenie-pojazdu": "UŻYW. ZAKUPIONY W KRAJU",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1995,
+        "masa-wlasna": 2928,
+        "rodzaj-paliwa": "OLEJ NAPĘDOWY",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/1809625700241156"
+      }
+    },
+    {
+      "id": "860847494192075",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "SKODA",
+        "kategoria-pojazdu": "11111111",
+        "typ": "---",
+        "model": "FABIA",
+        "wariant": "---",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "UŻYW. IMPORT INDYW",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 999,
+        "masa-wlasna": 1055,
+        "rodzaj-paliwa": "BENZYNA",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/860847494192075"
+      }
+    },
+    {
+      "id": "7468139721735157",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "RENAULT",
+        "kategoria-pojazdu": "19",
+        "typ": "RJK",
+        "model": "EXPRESS",
+        "wariant": "FD0",
+        "rodzaj-pojazdu": "SAMOCHÓD CIĘŻAROWY",
+        "pochodzenie-pojazdu": "UŻYW. ZAKUPIONY W KRAJU",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1461,
+        "masa-wlasna": 1347,
+        "rodzaj-paliwa": "OLEJ NAPĘDOWY",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/7468139721735157"
+      }
+    },
+    {
+      "id": "3181512291305659",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "TOYOTA",
+        "kategoria-pojazdu": "11111111",
+        "typ": "---",
+        "model": "RAV4",
+        "wariant": "---",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "UŻYW. ZAKUPIONY W KRAJU",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1794,
+        "masa-wlasna": 1255,
+        "rodzaj-paliwa": "BENZYNA",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/3181512291305659"
+      }
+    },
+    {
+      "id": "2411710428525815",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "HYUNDAI",
+        "kategoria-pojazdu": "0",
+        "typ": "---",
+        "model": "TUCSON",
+        "wariant": "---",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "UŻYW. ZAKUPIONY W KRAJU",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1591,
+        "masa-wlasna": 1454,
+        "rodzaj-paliwa": "BENZYNA",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/2411710428525815"
+      }
+    },
+    {
+      "id": "8418344850620770",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "AUDI",
+        "kategoria-pojazdu": "13",
+        "typ": "B8",
+        "model": "RS 5 COUPE",
+        "wariant": "C2DECAQ1",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "UŻYW. ZAKUPIONY W KRAJU",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 2894,
+        "masa-wlasna": 1765,
+        "rodzaj-paliwa": "BENZYNA",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/8418344850620770"
+      }
+    },
+    {
+      "id": "7468139721735147",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "BOCKMANN",
+        "kategoria-pojazdu": "0",
+        "typ": "---",
+        "model": "HT1",
+        "wariant": "---",
+        "rodzaj-pojazdu": "PRZYCZEPA CIĘŻAROWA",
+        "pochodzenie-pojazdu": "UŻYW. ZAKUPIONY W KRAJU",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": null,
+        "masa-wlasna": 429,
+        "rodzaj-paliwa": null,
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/7468139721735147"
+      }
+    },
+    {
+      "id": "4226954335916325",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "TOYOTA",
+        "kategoria-pojazdu": "11111111",
+        "typ": "---",
+        "model": "IQ",
+        "wariant": "---",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "UŻYW. ZAKUPIONY W KRAJU",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1364,
+        "masa-wlasna": 1020,
+        "rodzaj-paliwa": "OLEJ NAPĘDOWY",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/4226954335916325"
+      }
+    },
+    {
+      "id": "6949410311224951",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "OPEL",
+        "kategoria-pojazdu": "0",
+        "typ": "---",
+        "model": "CORSA",
+        "wariant": "---",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "UŻYW. IMPORT INDYW",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1398,
+        "masa-wlasna": 1199,
+        "rodzaj-paliwa": "BENZYNA",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/6949410311224951"
+      }
+    },
+    {
+      "id": "3809203979908903",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "HONDA",
+        "kategoria-pojazdu": "11111111",
+        "typ": "---",
+        "model": "CBR 900 RR",
+        "wariant": "---",
+        "rodzaj-pojazdu": "MOTOCYKL",
+        "pochodzenie-pojazdu": "UŻYW. IMPORT INDYW",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 929,
+        "masa-wlasna": 195,
+        "rodzaj-paliwa": "BENZYNA",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/3809203979908903"
+      }
+    },
+    {
+      "id": "519991364517727",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "OPEL",
+        "kategoria-pojazdu": "11111111",
+        "typ": "---",
+        "model": "ASTRA",
+        "wariant": "---",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "UŻYW. ZAKUPIONY W KRAJU",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1598,
+        "masa-wlasna": 1265,
+        "rodzaj-paliwa": "BENZYNA",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/519991364517727"
+      }
+    },
+    {
+      "id": "5962776421535726",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "OPEL",
+        "kategoria-pojazdu": "13",
+        "typ": "Z",
+        "model": "GRANDLAND",
+        "wariant": "R",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "UŻYW. ZAKUPIONY W KRAJU",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1199,
+        "masa-wlasna": 1478,
+        "rodzaj-paliwa": "BENZYNA",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/5962776421535726"
+      }
+    },
+    {
+      "id": "2799485198274861",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "OPEL",
+        "kategoria-pojazdu": "11111111",
+        "typ": "---",
+        "model": "ASTRA",
+        "wariant": "---",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "UŻYW. IMPORT INDYW",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1398,
+        "masa-wlasna": 1373,
+        "rodzaj-paliwa": "BENZYNA",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/2799485198274861"
+      }
+    },
+    {
+      "id": "2243211108602612",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "FORD",
+        "kategoria-pojazdu": "11111111",
+        "typ": "---",
+        "model": "FOCUS",
+        "wariant": "---",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "UŻYW. IMPORT INDYW",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1560,
+        "masa-wlasna": 1292,
+        "rodzaj-paliwa": "OLEJ NAPĘDOWY",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/2243211108602612"
+      }
+    },
+    {
+      "id": "4821512400963494",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "FORD",
+        "kategoria-pojazdu": "11111111",
+        "typ": "---",
+        "model": "C-MAX",
+        "wariant": "---",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "UŻYW. ZAKUPIONY W KRAJU",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1798,
+        "masa-wlasna": 1375,
+        "rodzaj-paliwa": "BENZYNA",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/4821512400963494"
+      }
+    },
+    {
+      "id": "1940573028506122",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "HUEFFERMANN",
+        "kategoria-pojazdu": "28",
+        "typ": "HAR",
+        "model": "HAR 20.70",
+        "wariant": "AAB",
+        "rodzaj-pojazdu": "PRZYCZEPA CIĘŻAROWA",
+        "pochodzenie-pojazdu": "UŻYW. ZAKUPIONY W KRAJU",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": null,
+        "masa-wlasna": 3574,
+        "rodzaj-paliwa": null,
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/1940573028506122"
+      }
+    },
+    {
+      "id": "858043444871123",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "CITROEN",
+        "kategoria-pojazdu": "0",
+        "typ": "---",
+        "model": "C4 PICASSO",
+        "wariant": "---",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "UŻYW. ZAKUPIONY W KRAJU",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1560,
+        "masa-wlasna": 1395,
+        "rodzaj-paliwa": "OLEJ NAPĘDOWY",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/858043444871123"
+      }
+    },
+    {
+      "id": "5041171188439644",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "FIAT/MPROJEKT",
+        "kategoria-pojazdu": "13",
+        "typ": "263/MP1",
+        "model": "DOBLO",
+        "wariant": "WYD1B",
+        "rodzaj-pojazdu": "SAMOCHÓD SPECJALNY",
+        "pochodzenie-pojazdu": "NOWY ZAKUPIONY W KRAJU",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1598,
+        "masa-wlasna": 1817,
+        "rodzaj-paliwa": "OLEJ NAPĘDOWY",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/5041171188439644"
+      }
+    },
+    {
+      "id": "7814755671936888",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "BMW",
+        "kategoria-pojazdu": "11111111",
+        "typ": "---",
+        "model": "318D",
+        "wariant": "---",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "UŻYW. ZAKUPIONY W KRAJU",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1995,
+        "masa-wlasna": 1555,
+        "rodzaj-paliwa": "OLEJ NAPĘDOWY",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/7814755671936888"
+      }
+    },
+    {
+      "id": "8372767367889590",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": null,
+        "kategoria-pojazdu": "19",
+        "typ": "FED/JG",
+        "model": "TRANSIT",
+        "wariant": "BKRA2BFY/SK",
+        "rodzaj-pojazdu": "SAMOCHÓD CIĘŻAROWY",
+        "pochodzenie-pojazdu": "UŻYW. ZAKUPIONY W KRAJU",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1995,
+        "masa-wlasna": 2300,
+        "rodzaj-paliwa": "OLEJ NAPĘDOWY",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/8372767367889590"
+      }
+    },
+    {
+      "id": "4111270072201341",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "VOLKSWAGEN",
+        "kategoria-pojazdu": "11111111",
+        "typ": "---",
+        "model": "TRANSPORTER",
+        "wariant": "---",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "UŻYW. ZAKUPIONY W KRAJU",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1896,
+        "masa-wlasna": 2095,
+        "rodzaj-paliwa": "OLEJ NAPĘDOWY",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/4111270072201341"
+      }
+    },
+    {
+      "id": "5637631903286857",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "TOYOTA",
+        "kategoria-pojazdu": "11111111",
+        "typ": "---",
+        "model": "PRIUS HYBRID",
+        "wariant": "---",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "UŻYW. ZAKUPIONY W KRAJU",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1497,
+        "masa-wlasna": 1375,
+        "rodzaj-paliwa": "BENZYNA",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/5637631903286857"
+      }
+    },
+    {
+      "id": "8103345784089837",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "FORD",
+        "kategoria-pojazdu": "11111111",
+        "typ": "---",
+        "model": "MONDEO",
+        "wariant": "---",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "UŻYW. IMPORT INDYW",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1596,
+        "masa-wlasna": 1455,
+        "rodzaj-paliwa": "BENZYNA",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/8103345784089837"
+      }
+    },
+    {
+      "id": "2538926111396609",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "DACIA",
+        "kategoria-pojazdu": "13",
+        "typ": "SR",
+        "model": "DUSTER",
+        "wariant": "DHE2",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "NOWY ZAKUPIONY W KRAJU",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1332,
+        "masa-wlasna": 1300,
+        "rodzaj-paliwa": "BENZYNA",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/2538926111396609"
+      }
+    },
+    {
+      "id": "1330474246083779",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "RENAULT",
+        "kategoria-pojazdu": "11111111",
+        "typ": "---",
+        "model": "CLIO",
+        "wariant": "---",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "UŻYW. IMPORT INDYW",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1149,
+        "masa-wlasna": 1165,
+        "rodzaj-paliwa": "BENZYNA",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/1330474246083779"
+      }
+    },
+    {
+      "id": "8809086322901109",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "AUDI",
+        "kategoria-pojazdu": "0",
+        "typ": "---",
+        "model": "Q5",
+        "wariant": "---",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "UŻYW. ZAKUPIONY W KRAJU",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1968,
+        "masa-wlasna": 1925,
+        "rodzaj-paliwa": "OLEJ NAPĘDOWY",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/8809086322901109"
+      }
+    },
+    {
+      "id": "3698421091093899",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "HONDA",
+        "kategoria-pojazdu": "11111111",
+        "typ": "---",
+        "model": "ACCORD",
+        "wariant": "---",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "UŻYW. ZAKUPIONY W KRAJU",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 2354,
+        "masa-wlasna": 1489,
+        "rodzaj-paliwa": "BENZYNA",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/3698421091093899"
+      }
+    },
+    {
+      "id": "172214784805925",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "FORD",
+        "kategoria-pojazdu": "11111111",
+        "typ": "---",
+        "model": "FOCUS ST",
+        "wariant": "---",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "UŻYW. ZAKUPIONY W KRAJU",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 2521,
+        "masa-wlasna": 1540,
+        "rodzaj-paliwa": "BENZYNA",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/172214784805925"
+      }
+    },
+    {
+      "id": "4142882120952260",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "PEUGEOT",
+        "kategoria-pojazdu": "19",
+        "typ": "Y",
+        "model": "BOXER",
+        "wariant": "BAPFB",
+        "rodzaj-pojazdu": "SAMOCHÓD CIĘŻAROWY",
+        "pochodzenie-pojazdu": "UŻYW. ZAKUPIONY W KRAJU",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 2179,
+        "masa-wlasna": 2016,
+        "rodzaj-paliwa": "OLEJ NAPĘDOWY",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/4142882120952260"
+      }
+    },
+    {
+      "id": "1172442827919144",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "KTM",
+        "kategoria-pojazdu": "11111111",
+        "typ": "---",
+        "model": "EXC-F 250",
+        "wariant": "---",
+        "rodzaj-pojazdu": "MOTOCYKL",
+        "pochodzenie-pojazdu": "UŻYW. ZAKUPIONY W KRAJU",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 249,
+        "masa-wlasna": 105,
+        "rodzaj-paliwa": "BENZYNA",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/1172442827919144"
+      }
+    },
+    {
+      "id": "216202300431735",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "PEUGEOT",
+        "kategoria-pojazdu": "13",
+        "typ": "C",
+        "model": "2008",
+        "wariant": "UYHY",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "UŻYW. ZAKUPIONY W KRAJU",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1499,
+        "masa-wlasna": 1205,
+        "rodzaj-paliwa": "OLEJ NAPĘDOWY",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/216202300431735"
+      }
+    },
+    {
+      "id": "4650009898500593",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "HONDA",
+        "kategoria-pojazdu": "6",
+        "typ": "SC58",
+        "model": "CBF1000A",
+        "wariant": "1",
+        "rodzaj-pojazdu": "MOTOCYKL",
+        "pochodzenie-pojazdu": "UŻYW. IMPORT INDYW",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 998,
+        "masa-wlasna": 250,
+        "rodzaj-paliwa": "BENZYNA",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/4650009898500593"
+      }
+    },
+    {
+      "id": "1616874965623794",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "VOLKSWAGEN",
+        "kategoria-pojazdu": "11111111",
+        "typ": "---",
+        "model": "GOLF",
+        "wariant": "---",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "UŻYW. IMPORT INDYW",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1896,
+        "masa-wlasna": 1470,
+        "rodzaj-paliwa": "OLEJ NAPĘDOWY",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/1616874965623794"
+      }
+    },
+    {
+      "id": "7377302027826306",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "RENAULT",
+        "kategoria-pojazdu": "11111111",
+        "typ": "---",
+        "model": "CLIO",
+        "wariant": "---",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "UŻYW. IMPORT INDYW",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1149,
+        "masa-wlasna": 1005,
+        "rodzaj-paliwa": "BENZYNA",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/7377302027826306"
+      }
+    },
+    {
+      "id": "6838556634936865",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "MERCEDES-BENZ",
+        "kategoria-pojazdu": "13",
+        "typ": "639/2",
+        "model": "V-KLASSE",
+        "wariant": "KLU4L310NXX",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "NOWY ZAKUPIONY W KRAJU",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1950,
+        "masa-wlasna": 2309,
+        "rodzaj-paliwa": "OLEJ NAPĘDOWY",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/6838556634936865"
+      }
+    },
+    {
+      "id": "267550257680004",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "RENAULT",
+        "kategoria-pojazdu": "19",
+        "typ": "RJK",
+        "model": "EXPRESS",
+        "wariant": "FE0",
+        "rodzaj-pojazdu": "SAMOCHÓD CIĘŻAROWY",
+        "pochodzenie-pojazdu": "NOWY ZAKUPIONY W KRAJU",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1332,
+        "masa-wlasna": 1265,
+        "rodzaj-paliwa": "BENZYNA",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/267550257680004"
+      }
+    },
+    {
+      "id": "1530889463900683",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "PEUGEOT",
+        "kategoria-pojazdu": "0",
+        "typ": "---",
+        "model": "307",
+        "wariant": "---",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "UŻYW. ZAKUPIONY W KRAJU",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1587,
+        "masa-wlasna": 1279,
+        "rodzaj-paliwa": "BENZYNA",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/1530889463900683"
+      }
+    },
+    {
+      "id": "8453645626854245",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "FORD",
+        "kategoria-pojazdu": "0",
+        "typ": "---",
+        "model": "FIESTA",
+        "wariant": "---",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "UŻYW. IMPORT INDYW",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1242,
+        "masa-wlasna": 1054,
+        "rodzaj-paliwa": "BENZYNA",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/8453645626854245"
+      }
+    },
+    {
+      "id": "7468860995182965",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "CITROEN",
+        "kategoria-pojazdu": "13",
+        "typ": "L*****",
+        "model": "C4",
+        "wariant": "LANFU*",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "UŻYW. IMPORT INDYW",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1587,
+        "masa-wlasna": 1275,
+        "rodzaj-paliwa": "BENZYNA",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/7468860995182965"
+      }
+    },
+    {
+      "id": "3447004272746680",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "CITROEN",
+        "kategoria-pojazdu": "11111111",
+        "typ": "---",
+        "model": "C4 AIRCROSS",
+        "wariant": "---",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "UŻYW. ZAKUPIONY W KRAJU",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1560,
+        "masa-wlasna": 1390,
+        "rodzaj-paliwa": "OLEJ NAPĘDOWY",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/3447004272746680"
+      }
+    },
+    {
+      "id": "25646017219473",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "HYUNDAI",
+        "kategoria-pojazdu": "13",
+        "typ": "FDH",
+        "model": "I30 CW",
+        "wariant": "F5PC1",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "UŻYW. ZAKUPIONY W KRAJU",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1396,
+        "masa-wlasna": 1311,
+        "rodzaj-paliwa": "BENZYNA",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/25646017219473"
+      }
+    },
+    {
+      "id": "2297961835325990",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "TOYOTA",
+        "kategoria-pojazdu": "11111111",
+        "typ": "---",
+        "model": "COROLLA VERSO",
+        "wariant": "---",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "UŻYW. ZAKUPIONY W KRAJU",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1794,
+        "masa-wlasna": 1430,
+        "rodzaj-paliwa": "BENZYNA",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/2297961835325990"
+      }
+    },
+    {
+      "id": "6411219147356454",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "SKODA",
+        "kategoria-pojazdu": "13",
+        "typ": "3T",
+        "model": "SUPERB",
+        "wariant": "ACDPCAX01",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "NOWY ZAKUPIONY W KRAJU",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1498,
+        "masa-wlasna": 1500,
+        "rodzaj-paliwa": "BENZYNA",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/6411219147356454"
+      }
+    },
+    {
+      "id": "4394667937905838",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "VOLVO",
+        "kategoria-pojazdu": "13",
+        "typ": "S",
+        "model": "V70",
+        "wariant": "SW65",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "UŻYW. IMPORT INDYW",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 2435,
+        "masa-wlasna": 1495,
+        "rodzaj-paliwa": "BENZYNA",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/4394667937905838"
+      }
+    },
+    {
+      "id": "3858172673283095",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "IVECO-MAGIRUS",
+        "kategoria-pojazdu": "11111111",
+        "typ": "---",
+        "model": "---",
+        "wariant": "---",
+        "rodzaj-pojazdu": "SAMOCHÓD CIĘŻAROWY",
+        "pochodzenie-pojazdu": "UŻYW. IMPORT INDYW",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 11120,
+        "masa-wlasna": 12900,
+        "rodzaj-paliwa": "OLEJ NAPĘDOWY",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/3858172673283095"
+      }
+    },
+    {
+      "id": "8515134912235956",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "URSUS",
+        "kategoria-pojazdu": "0",
+        "typ": "---",
+        "model": "C-330",
+        "wariant": "---",
+        "rodzaj-pojazdu": "CIĄGNIK ROLNICZY",
+        "pochodzenie-pojazdu": "UŻYW. IMPORT INDYW",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1960,
+        "masa-wlasna": 1675,
+        "rodzaj-paliwa": "OLEJ NAPĘDOWY",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/8515134912235956"
+      }
+    },
+    {
+      "id": "1383076162520079",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "LEXUS",
+        "kategoria-pojazdu": "11111111",
+        "typ": "---",
+        "model": "RX 400H",
+        "wariant": "---",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "UŻYW. IMPORT INDYW",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 3311,
+        "masa-wlasna": 2120,
+        "rodzaj-paliwa": "BENZYNA",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/1383076162520079"
+      }
+    },
+    {
+      "id": "7842651711575813",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "IMV-ADRIA",
+        "kategoria-pojazdu": "0",
+        "typ": "---",
+        "model": "530 TN",
+        "wariant": "---",
+        "rodzaj-pojazdu": "PRZYCZEPA SPECJALNA",
+        "pochodzenie-pojazdu": "UŻYW. IMPORT INDYW",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": null,
+        "masa-wlasna": 1100,
+        "rodzaj-paliwa": null,
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/7842651711575813"
+      }
+    },
+    {
+      "id": "4795013043968098",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "TOYOTA",
+        "kategoria-pojazdu": "13",
+        "typ": "XPB1F(M)",
+        "model": "YARIS CROSS",
+        "wariant": "MXPJ10(H)",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "NOWY ZAKUPIONY W KRAJU",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1490,
+        "masa-wlasna": 1181,
+        "rodzaj-paliwa": "BENZYNA",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/4795013043968098"
+      }
+    },
+    {
+      "id": "5568914983536833",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "VOLKSWAGEN",
+        "kategoria-pojazdu": "11111111",
+        "typ": "---",
+        "model": "GOLF",
+        "wariant": "---",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "UŻYW. IMPORT INDYW",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1598,
+        "masa-wlasna": 1321,
+        "rodzaj-paliwa": "OLEJ NAPĘDOWY",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/5568914983536833"
+      }
+    },
+    {
+      "id": "3701921736007213",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "RENAULT",
+        "kategoria-pojazdu": "0",
+        "typ": "---",
+        "model": "T 480",
+        "wariant": "---",
+        "rodzaj-pojazdu": "CIĄGNIK SAMOCHODOWY",
+        "pochodzenie-pojazdu": "UŻYW. IMPORT INDYW",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 12777,
+        "masa-wlasna": 8108,
+        "rodzaj-paliwa": "OLEJ NAPĘDOWY",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/3701921736007213"
+      }
+    },
+    {
+      "id": "7414319600393880",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "URSUS",
+        "kategoria-pojazdu": "0",
+        "typ": "---",
+        "model": "C-330",
+        "wariant": "---",
+        "rodzaj-pojazdu": "CIĄGNIK ROLNICZY",
+        "pochodzenie-pojazdu": "UŻYW. IMPORT INDYW",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1960,
+        "masa-wlasna": 1675,
+        "rodzaj-paliwa": "OLEJ NAPĘDOWY",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/7414319600393880"
+      }
+    },
+    {
+      "id": "6454604229180513",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "VOLKSWAGEN",
+        "kategoria-pojazdu": "19",
+        "typ": "SYN1E",
+        "model": "CRAFTER",
+        "wariant": "SYBB4ADNAEV3",
+        "rodzaj-pojazdu": "SAMOCHÓD CIĘŻAROWY",
+        "pochodzenie-pojazdu": "NOWY ZAKUPIONY W KRAJU",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1968,
+        "masa-wlasna": 2169,
+        "rodzaj-paliwa": "OLEJ NAPĘDOWY",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/6454604229180513"
+      }
+    },
+    {
+      "id": "5041171188439634",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "URSUS",
+        "kategoria-pojazdu": "0",
+        "typ": "---",
+        "model": "C-330",
+        "wariant": "---",
+        "rodzaj-pojazdu": "CIĄGNIK ROLNICZY",
+        "pochodzenie-pojazdu": "UŻYW. IMPORT INDYW",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1960,
+        "masa-wlasna": 1675,
+        "rodzaj-paliwa": "OLEJ NAPĘDOWY",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/5041171188439634"
+      }
+    },
+    {
+      "id": "539178540602767",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "MERCEDES-BENZ",
+        "kategoria-pojazdu": "13",
+        "typ": "F2B",
+        "model": "GLB 200",
+        "wariant": "0XH7T2",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "NOWY ZAKUPIONY W KRAJU",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1332,
+        "masa-wlasna": 1597,
+        "rodzaj-paliwa": "BENZYNA",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/539178540602767"
+      }
+    },
+    {
+      "id": "6463271745327001",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "BRENDERUP",
+        "kategoria-pojazdu": "11111111",
+        "typ": "---",
+        "model": "750",
+        "wariant": "---",
+        "rodzaj-pojazdu": "PRZYCZEPA LEKKA",
+        "pochodzenie-pojazdu": "UŻYW. IMPORT INDYW",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": null,
+        "masa-wlasna": 150,
+        "rodzaj-paliwa": null,
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/6463271745327001"
+      }
+    },
+    {
+      "id": "8963254508440530",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "AUDI",
+        "kategoria-pojazdu": "11111111",
+        "typ": "---",
+        "model": "A3",
+        "wariant": "---",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "UŻYW. IMPORT INDYW",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1968,
+        "masa-wlasna": 1435,
+        "rodzaj-paliwa": "OLEJ NAPĘDOWY",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/8963254508440530"
+      }
+    },
+    {
+      "id": "1499334167181108",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "OPEL",
+        "kategoria-pojazdu": "0",
+        "typ": "---",
+        "model": "VIVARO",
+        "wariant": "---",
+        "rodzaj-pojazdu": "SAMOCHÓD CIĘŻAROWY",
+        "pochodzenie-pojazdu": "UŻYW. IMPORT INDYW",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1598,
+        "masa-wlasna": 1843,
+        "rodzaj-paliwa": "OLEJ NAPĘDOWY",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/1499334167181108"
+      }
+    },
+    {
+      "id": "2816366685132020",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "MASAI",
+        "kategoria-pojazdu": "0",
+        "typ": "---",
+        "model": "JET POWER",
+        "wariant": "---",
+        "rodzaj-pojazdu": "SAMOCHODOWY INNY",
+        "pochodzenie-pojazdu": "UŻYW. IMPORT INDYW",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 448,
+        "masa-wlasna": 220,
+        "rodzaj-paliwa": "BENZYNA",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/2816366685132020"
+      }
+    },
+    {
+      "id": "3558646993332003",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "OPEL",
+        "kategoria-pojazdu": "0",
+        "typ": "---",
+        "model": "ASTRA",
+        "wariant": "---",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "UŻYW. IMPORT INDYW",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1910,
+        "masa-wlasna": 1503,
+        "rodzaj-paliwa": "OLEJ NAPĘDOWY",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/3558646993332003"
+      }
+    },
+    {
+      "id": "5989250453997570",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": null,
+        "kategoria-pojazdu": "0",
+        "typ": "---",
+        "model": "APOLLO",
+        "wariant": "---",
+        "rodzaj-pojazdu": "PRZYCZEPA SPECJALNA",
+        "pochodzenie-pojazdu": "UŻYW. IMPORT INDYW",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": null,
+        "masa-wlasna": 750,
+        "rodzaj-paliwa": null,
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/5989250453997570"
+      }
+    },
+    {
+      "id": "4152526942315402",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "TOYOTA",
+        "kategoria-pojazdu": "13",
+        "typ": "XA5P(EU,M)",
+        "model": "RAV4",
+        "wariant": "AXAP54(N)",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "NOWY ZAKUPIONY W KRAJU",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 2487,
+        "masa-wlasna": 1976,
+        "rodzaj-paliwa": "BENZYNA",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/4152526942315402"
+      }
+    },
+    {
+      "id": "3010502414926200",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "BMW",
+        "kategoria-pojazdu": "13",
+        "typ": "U2AT",
+        "model": "218D ACTIVE TOURER",
+        "wariant": "21BY",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "NOWY ZAKUPIONY W KRAJU",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1995,
+        "masa-wlasna": 1545,
+        "rodzaj-paliwa": "OLEJ NAPĘDOWY",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/3010502414926200"
+      }
+    },
+    {
+      "id": "1138886040616478",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "VOLVO",
+        "kategoria-pojazdu": "0",
+        "typ": "---",
+        "model": "V40 1.8 KAT",
+        "wariant": "---",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "UŻYW. IMPORT INDYW",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1783,
+        "masa-wlasna": 1355,
+        "rodzaj-paliwa": "BENZYNA",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/1138886040616478"
+      }
+    },
+    {
+      "id": "7459862864372397",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "RENAULT",
+        "kategoria-pojazdu": "13",
+        "typ": "R",
+        "model": "CAPTUR",
+        "wariant": "2RC0",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "UŻYW. IMPORT INDYW",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1197,
+        "masa-wlasna": 1180,
+        "rodzaj-paliwa": "BENZYNA",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/7459862864372397"
+      }
+    },
+    {
+      "id": "198622840624838",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "RENAULT",
+        "kategoria-pojazdu": "19",
+        "typ": "RJK",
+        "model": "EXPRESS",
+        "wariant": "FD0",
+        "rodzaj-pojazdu": "SAMOCHÓD CIĘŻAROWY",
+        "pochodzenie-pojazdu": "NOWY ZAKUPIONY W KRAJU",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1461,
+        "masa-wlasna": 1359,
+        "rodzaj-paliwa": "OLEJ NAPĘDOWY",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/198622840624838"
+      }
+    },
+    {
+      "id": "4856539231369635",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "VOLKSWAGEN",
+        "kategoria-pojazdu": "11111111",
+        "typ": "---",
+        "model": "UP!",
+        "wariant": "---",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "UŻYW. IMPORT INDYW",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": null,
+        "masa-wlasna": 1248,
+        "rodzaj-paliwa": "ENERGIA ELEKTRYCZNA",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/4856539231369635"
+      }
+    },
+    {
+      "id": "2712275505715975",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "RENAULT",
+        "kategoria-pojazdu": "11111111",
+        "typ": "---",
+        "model": "KADJAR",
+        "wariant": "---",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "UŻYW. IMPORT INDYW",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1461,
+        "masa-wlasna": 1421,
+        "rodzaj-paliwa": "OLEJ NAPĘDOWY",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/2712275505715975"
+      }
+    },
+    {
+      "id": "2696555235326393",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "SKODA",
+        "kategoria-pojazdu": "11111111",
+        "typ": "---",
+        "model": "FABIA",
+        "wariant": "---",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "UŻYW. IMPORT INDYW",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1198,
+        "masa-wlasna": 1220,
+        "rodzaj-paliwa": "BENZYNA",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/2696555235326393"
+      }
+    },
+    {
+      "id": "8418344850620780",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "YIBEN",
+        "kategoria-pojazdu": "2",
+        "typ": "YB50QT-3",
+        "model": "YB50QT-3",
+        "wariant": "00",
+        "rodzaj-pojazdu": "MOTOROWER",
+        "pochodzenie-pojazdu": "NOWY ZAKUPIONY W KRAJU",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 50,
+        "masa-wlasna": 83,
+        "rodzaj-paliwa": "BENZYNA",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/8418344850620780"
+      }
+    },
+    {
+      "id": "7613670297907434",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "NIEWIADÓW",
+        "kategoria-pojazdu": "25",
+        "typ": "BD750",
+        "model": "---",
+        "wariant": "N1",
+        "rodzaj-pojazdu": "PRZYCZEPA LEKKA",
+        "pochodzenie-pojazdu": "NOWY ZAKUPIONY W KRAJU",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": null,
+        "masa-wlasna": 236,
+        "rodzaj-paliwa": null,
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/7613670297907434"
+      }
+    },
+    {
+      "id": "5368018748280701",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "OPEL",
+        "kategoria-pojazdu": "0",
+        "typ": "---",
+        "model": "CORSA",
+        "wariant": "---",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "UŻYW. IMPORT INDYW",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1229,
+        "masa-wlasna": 1035,
+        "rodzaj-paliwa": "BENZYNA",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/5368018748280701"
+      }
+    },
+    {
+      "id": "5153850509157617",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "KRONE",
+        "kategoria-pojazdu": "28",
+        "typ": "SD",
+        "model": "---",
+        "wariant": "DA03CLNF",
+        "rodzaj-pojazdu": "NACZEPA CIĘŻAROWA",
+        "pochodzenie-pojazdu": "NOWY ZAKUPIONY W KRAJU",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": null,
+        "masa-wlasna": 7890,
+        "rodzaj-paliwa": null,
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/5153850509157617"
+      }
+    },
+    {
+      "id": "6438968324518469",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "MITSUBISHI",
+        "kategoria-pojazdu": "11111111",
+        "typ": "---",
+        "model": "OUTLANDER",
+        "wariant": "---",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "UŻYW. IMPORT INDYW",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1997,
+        "masa-wlasna": 1670,
+        "rodzaj-paliwa": "BENZYNA",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/6438968324518469"
+      }
+    },
+    {
+      "id": "1015890170826214",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "BMW",
+        "kategoria-pojazdu": "14",
+        "typ": "G3X",
+        "model": "X3 XDRIVE20D",
+        "wariant": "15BZ",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "NOWY ZAKUPIONY W KRAJU",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1995,
+        "masa-wlasna": 1840,
+        "rodzaj-paliwa": "OLEJ NAPĘDOWY",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/1015890170826214"
+      }
+    },
+    {
+      "id": "4398564205641114",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "RENAULT/MRAUTO",
+        "kategoria-pojazdu": "19",
+        "typ": "VB/MR",
+        "model": "MASTER MR-ZS",
+        "wariant": "UM/ZS",
+        "rodzaj-pojazdu": "SAMOCHÓD CIĘŻAROWY",
+        "pochodzenie-pojazdu": "NOWY ZAKUPIONY W KRAJU",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 2299,
+        "masa-wlasna": 2556,
+        "rodzaj-paliwa": "OLEJ NAPĘDOWY",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/4398564205641114"
+      }
+    },
+    {
+      "id": "2055334300087078",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "HONDA",
+        "kategoria-pojazdu": "0",
+        "typ": "---",
+        "model": "PANTHEON",
+        "wariant": "---",
+        "rodzaj-pojazdu": "MOTOCYKL",
+        "pochodzenie-pojazdu": "UŻYW. IMPORT INDYW",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 125,
+        "masa-wlasna": 162,
+        "rodzaj-paliwa": "BENZYNA",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/2055334300087078"
+      }
+    },
+    {
+      "id": "8581746654463466",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "YAMAHA",
+        "kategoria-pojazdu": "6",
+        "typ": "RM33",
+        "model": "MTN690",
+        "wariant": "A",
+        "rodzaj-pojazdu": "MOTOCYKL",
+        "pochodzenie-pojazdu": "NOWY ZAKUPIONY W KRAJU",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 689,
+        "masa-wlasna": 184,
+        "rodzaj-paliwa": "BENZYNA",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/8581746654463466"
+      }
+    },
+    {
+      "id": "3318960162893789",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "AUDI",
+        "kategoria-pojazdu": "11111111",
+        "typ": "---",
+        "model": "A6",
+        "wariant": "---",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "UŻYW. IMPORT INDYW",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 2393,
+        "masa-wlasna": 1610,
+        "rodzaj-paliwa": "BENZYNA",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/3318960162893789"
+      }
+    },
+    {
+      "id": "5127396838438544",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "VOLKSWAGEN",
+        "kategoria-pojazdu": "13",
+        "typ": "3C",
+        "model": "PASSAT",
+        "wariant": "ACDTUAX1",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "NOWY ZAKUPIONY W KRAJU",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1968,
+        "masa-wlasna": 1677,
+        "rodzaj-paliwa": "OLEJ NAPĘDOWY",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/5127396838438544"
+      }
+    },
+    {
+      "id": "510422894919999",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "VOLVO",
+        "kategoria-pojazdu": "11111111",
+        "typ": "---",
+        "model": "V40",
+        "wariant": "---",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "UŻYW. IMPORT INDYW",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1969,
+        "masa-wlasna": 1532,
+        "rodzaj-paliwa": "OLEJ NAPĘDOWY",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/510422894919999"
+      }
+    },
+    {
+      "id": "1115082655342656",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "JOHN DEERE",
+        "kategoria-pojazdu": "46",
+        "typ": "E17",
+        "model": "6155M",
+        "wariant": "C2ACVBCA2CAF0",
+        "rodzaj-pojazdu": "CIĄGNIK ROLNICZY",
+        "pochodzenie-pojazdu": "NOWY ZAKUPIONY W KRAJU",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 6788,
+        "masa-wlasna": 8885,
+        "rodzaj-paliwa": "OLEJ NAPĘDOWY",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/1115082655342656"
+      }
+    },
+    {
+      "id": "539178540602760",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "VOLKSWAGEN",
+        "kategoria-pojazdu": "13",
+        "typ": "C1",
+        "model": "T-CROSS",
+        "wariant": "DLAAACX05",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "NOWY ZAKUPIONY W KRAJU",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 999,
+        "masa-wlasna": 1243,
+        "rodzaj-paliwa": "BENZYNA",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/539178540602760"
+      }
+    },
+    {
+      "id": "2505702276986935",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "PEUGEOT",
+        "kategoria-pojazdu": "11111111",
+        "typ": "---",
+        "model": "407",
+        "wariant": "---",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "UŻYW. IMPORT INDYW",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 2179,
+        "masa-wlasna": 1790,
+        "rodzaj-paliwa": "OLEJ NAPĘDOWY",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/2505702276986935"
+      }
+    },
+    {
+      "id": "4835036329720397",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "CITROEN",
+        "kategoria-pojazdu": "0",
+        "typ": "---",
+        "model": "NEMO",
+        "wariant": "---",
+        "rodzaj-pojazdu": "SAMOCHÓD CIĘŻAROWY",
+        "pochodzenie-pojazdu": "UŻYW. IMPORT INDYW",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1399,
+        "masa-wlasna": 1165,
+        "rodzaj-paliwa": "OLEJ NAPĘDOWY",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/4835036329720397"
+      }
+    },
+    {
+      "id": "3564931431830451",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "VOLKSWAGEN",
+        "kategoria-pojazdu": "13",
+        "typ": "1T",
+        "model": "TOURAN",
+        "wariant": "DPCAAC",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "NOWY ZAKUPIONY W KRAJU",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1498,
+        "masa-wlasna": 1494,
+        "rodzaj-paliwa": "BENZYNA",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/3564931431830451"
+      }
+    },
+    {
+      "id": "4554117396847003",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "CITROEN",
+        "kategoria-pojazdu": "11111111",
+        "typ": "---",
+        "model": "C3",
+        "wariant": "---",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "UŻYW. IMPORT INDYW",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1124,
+        "masa-wlasna": 1085,
+        "rodzaj-paliwa": "BENZYNA",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/4554117396847003"
+      }
+    },
+    {
+      "id": "8086067107638249",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "MERCEDES-BENZ",
+        "kategoria-pojazdu": "0",
+        "typ": "---",
+        "model": "CLS 63 AMG",
+        "wariant": "---",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "UŻYW. IMPORT INDYW",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 6208,
+        "masa-wlasna": 1920,
+        "rodzaj-paliwa": "BENZYNA",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/8086067107638249"
+      }
+    },
+    {
+      "id": "6020115546087637",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "SKODA",
+        "kategoria-pojazdu": "11111111",
+        "typ": "---",
+        "model": "SUPERB",
+        "wariant": "---",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "UŻYW. IMPORT INDYW",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1968,
+        "masa-wlasna": 1520,
+        "rodzaj-paliwa": "OLEJ NAPĘDOWY",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/6020115546087637"
+      }
+    },
+    {
+      "id": "1543323311944468",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "FORD",
+        "kategoria-pojazdu": "0",
+        "typ": "---",
+        "model": "KUGA",
+        "wariant": "---",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "UŻYW. IMPORT INDYW",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1997,
+        "masa-wlasna": 1584,
+        "rodzaj-paliwa": "OLEJ NAPĘDOWY",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/1543323311944468"
+      }
+    },
+    {
+      "id": "5208128513952937",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "AUDI",
+        "kategoria-pojazdu": "11111111",
+        "typ": "---",
+        "model": "A3",
+        "wariant": "---",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "UŻYW. IMPORT INDYW",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1598,
+        "masa-wlasna": 1395,
+        "rodzaj-paliwa": "OLEJ NAPĘDOWY",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/5208128513952937"
+      }
+    },
+    {
+      "id": "6476836911164098",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": null,
+        "kategoria-pojazdu": "0",
+        "typ": "---",
+        "model": "CS 150",
+        "wariant": "---",
+        "rodzaj-pojazdu": "CIĄGNIK ROLNICZY",
+        "pochodzenie-pojazdu": "UŻYW. IMPORT INDYW",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 6596,
+        "masa-wlasna": 5360,
+        "rodzaj-paliwa": "OLEJ NAPĘDOWY",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/6476836911164098"
+      }
+    },
+    {
+      "id": "6106539874666345",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "VOLVO",
+        "kategoria-pojazdu": "11111111",
+        "typ": "---",
+        "model": "V50",
+        "wariant": "---",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "UŻYW. IMPORT INDYW",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1560,
+        "masa-wlasna": 1394,
+        "rodzaj-paliwa": "OLEJ NAPĘDOWY",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/6106539874666345"
+      }
+    },
+    {
+      "id": "5782578522605910",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "NISSAN",
+        "kategoria-pojazdu": "0",
+        "typ": "---",
+        "model": "QASHQAI",
+        "wariant": "---",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "UŻYW. IMPORT INDYW",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1598,
+        "masa-wlasna": 1310,
+        "rodzaj-paliwa": "BENZYNA",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/5782578522605910"
+      }
+    },
+    {
+      "id": "6141253704408214",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "MAZDA",
+        "kategoria-pojazdu": "11111111",
+        "typ": "---",
+        "model": "6",
+        "wariant": "---",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "UŻYW. IMPORT INDYW",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1798,
+        "masa-wlasna": 1435,
+        "rodzaj-paliwa": "BENZYNA",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/6141253704408214"
+      }
+    },
+    {
+      "id": "3402832380255796",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "CITROEN",
+        "kategoria-pojazdu": "13",
+        "typ": "B",
+        "model": "E-C4",
+        "wariant": "C",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "NOWY ZAKUPIONY W KRAJU",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": null,
+        "masa-wlasna": 1639,
+        "rodzaj-paliwa": "ENERGIA ELEKTRYCZNA",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/3402832380255796"
+      }
+    },
+    {
+      "id": "4244721401614491",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "HONDA",
+        "kategoria-pojazdu": "13",
+        "typ": "ZE2",
+        "model": "INSIGHT",
+        "wariant": "1",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "UŻYW. IMPORT INDYW",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2022-06-27",
+        "pojemnosc-skokowa-silnika": 1339,
+        "masa-wlasna": 1201,
+        "rodzaj-paliwa": "BENZYNA",
+        "wojewodztwo-kod": "04"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/4244721401614491"
+      }
+    }
+  ],
+  "meta": {
+    "json-ld-id": "/pojazdy?wojewodztwo=04&data-od=20220626&data-do=20221226&limit=100&page=1&typ-daty=1&tylko-zarejestrowane=true&pokaz-wszystkie-pola=false",
+    "schema": "https://api.cepik.gov.pl/www/schema/vehicle.json",
+    "dc:title": "Lista pojazdów",
+    "schema:provider": "Ministerstwo Cyfryzacji",
+    "schema:datePublished": "2019-05-13",
+    "schema:dateModified": "2022-12-24",
+    "dc:description": "Lista pojazdów udostępnionych z bazy CEPiK",
+    "dc:language": "pl",
+    "sy:updatePeriod": "weekly",
+    "sy:updateFrequency": "1",
+    "sy:updateBase": "2022-12-31",
+    "schema:contentType": "application/json",
+    "schema:isPartOf": "https://api.cepik.gov.pl/pojazdy",
+    "count": 101,
+    "page": 1,
+    "limit": 100,
+    "dc:rights": "brak",
+    "schema:keywords": "pojazdy, cepik, cep, dane techniczne, spalanie, samochody, autobusy, motocykle, daty rejestracji"
+  },
+  "links": {
+    "first": "https://api.cepik.gov.pl/pojazdy?wojewodztwo=04&data-od=20220626&data-do=20221226&limit=100&page=1&typ-daty=1&tylko-zarejestrowane=true&pokaz-wszystkie-pola=false",
+    "self": "https://api.cepik.gov.pl/pojazdy?wojewodztwo=04&data-od=20220626&data-do=20221226&limit=100&page=1&typ-daty=1&tylko-zarejestrowane=true&pokaz-wszystkie-pola=false",
+    "next": "https://api.cepik.gov.pl/pojazdy?wojewodztwo=04&data-od=20220626&data-do=20221226&limit=100&page=2&typ-daty=1&tylko-zarejestrowane=true&pokaz-wszystkie-pola=false",
+    "last": "https://api.cepik.gov.pl/pojazdy?wojewodztwo=04&data-od=20220626&data-do=20221226&limit=100&page=2&typ-daty=1&tylko-zarejestrowane=true&pokaz-wszystkie-pola=false"
+  }
+}

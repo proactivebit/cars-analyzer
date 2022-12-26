@@ -6,6 +6,7 @@
       rel="stylesheet"
     />
     <meta content="width=device-width, initial-scale=1" name="viewport" />
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   </head>
   <body>
     <header>
@@ -15,13 +16,38 @@
     </header>
     <form>
       <div class="wrapper">
-        <div class="filter-item">
-          <p>Wybierz województwo do analizy</p>
-          <div id="provinces"></div>
+        <div class="filters">
+          <div class="filter-item">
+            <p>Wybierz województwo do analizy</p>
+            <div id="provinces"></div>
+          </div>
+          <div class="filter-item">
+            <p>Wybierz datę</p>
+            <span>
+              <label for="start">Rok:</label>
+              <div id="years"></div>
+            </span>
+            <span>
+              <label for="start">Miesiąc:</label>
+              <div id="months"></div>
+            </span>
+          </div>
         </div>
+        <div class="button">
+          <button type="button" onclick="getData()">Pobierz dane</button>
+        </div>
+        <div id="loader"></div>
       </div>
     </form>
-    <button type="button" onclick="getData()">Pobierz dane</button>
+    <div>
+      <div class="wrapper">
+        <div id="amountOfCars"></div>
+        <div id="popularBrands"></div>
+        <canvas id="popularBrandsChart"></canvas>
+        <div id="petrolType"></div>
+        <canvas id="petrolTypeChart"></canvas>
+      </div>
+    </div>
     <script type="module" src="index.js"></script>
   </body>
 </html>

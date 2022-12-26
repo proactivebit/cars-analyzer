@@ -22,6 +22,13 @@ class ApiService {
     //   },
     // ];
   }
+
+  async getCars(selectedProvince, startDate, endDate) {
+    const response = await fetch(
+      `${path}/getCars?province=${selectedProvince}&startDate=${startDate}&endDate=${endDate}`
+    );
+    return await response.json();
+  }
 }
 
 export const apiService = new ApiService();
