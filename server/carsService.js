@@ -3,6 +3,8 @@ import axios from "axios";
 const formatUrl = (province, startDate, endDate, page) =>
   `https://api.cepik.gov.pl/pojazdy?wojewodztwo=${province}&data-od=${startDate}&data-do=${endDate}&typ-daty=1&tylko-zarejestrowane=true&pokaz-wszystkie-pola=false&limit=500&page=${page}`;
 
+const ALLOW_PAGING = false;
+
 class CarsService {
   async getCars(province, startDate, endDate) {
     let response = {
@@ -23,7 +25,7 @@ class CarsService {
       response.meta = result.data.meta;
       console.log(`end fetch data ${response.data.length}`);
       page++;
-    } while (response.data.length < response.meta.count);
+    } while (response.data.length < response.meta.count && ALLOW_PAGING);
     return response;
   }
 }

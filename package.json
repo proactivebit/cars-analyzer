@@ -4,7 +4,7 @@
   "description": "",
   "main": "src/index.js",
   "scripts": {
-    "postinstall": "(cd public && npm install) && (cd server && npm install)",
+    "postinstall": "(cd public && npm install) && (cd ../server && npm install)",
     "start:public": "cd public && npm start",
     "start:server": "cd server && npm start"
   },
